@@ -1,0 +1,17 @@
+data/rfmid/Training_set/
+data/rfmid/Validation_set/
+data/rfmid/Test_set/
+saved_models/*.keras
+saved_models/*.h5
+__pycache__/
+*.pyc
+.pythonlibs/
+.cache/
+.upm/
+.local/
+*.egg-info/
+.streamlit/secrets.toml
+/tmp/
+*.log
+venv/
+.env
